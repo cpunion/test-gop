@@ -1,0 +1,3 @@
+import "example.com/lib"
+
+println(lib.Foo())
