@@ -1,3 +1,3 @@
-module example.com/user
+module github.com/cpunion/test-gop/user
 
 gop 1.1.8

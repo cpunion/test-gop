@@ -1,3 +1,7 @@
-import "example.com/lib"
+package main
 
-println(lib.Foo())
+import "github.com/cpunion/test-gop/lib"
+
+func main() {
+	println(lib.Foo())
+}

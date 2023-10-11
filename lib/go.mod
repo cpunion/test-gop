@@ -1,4 +1,4 @@
-module example.com/lib
+module github.com/cpunion/test-gop/lib
 
 require github.com/goplus/gop v1.1.8
 
